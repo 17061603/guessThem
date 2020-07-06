@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\w1.o
+./release\w2.o
+./release\UIChinaCity.o
+./release\chineseletterhelper.o
+./release\moc_widget.o
+./release\moc_w1.o
+./release\moc_w2.o
+./release\moc_UIChinaCity.o
+);

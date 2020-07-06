@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\w1.o
+./debug\w2.o
+./debug\UIChinaCity.o
+./debug\chineseletterhelper.o
+./debug\moc_widget.o
+./debug\moc_w1.o
+./debug\moc_w2.o
+./debug\moc_UIChinaCity.o
+);

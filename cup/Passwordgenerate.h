@@ -18,10 +18,10 @@ public :
     //旧密码
     vector<QString> Oldpassword;//加入finalResualt
     //关键数字
-    vector<QString> numList;
+    vector<QString> numList={"1234"};
    // vector<QString> numList_from_oldcode={};
     //关键字母串
-     vector<QString> wordList;
+     vector<QString> wordList={"love","qq","password"};
    //  vector<QString> wordList_from_oldcode={};
     //最终结果
     vector<QString> finalResualt;
